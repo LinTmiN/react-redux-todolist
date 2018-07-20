@@ -1,1 +1,1 @@
-第一次 使用redux管理state，了解了容器组件和UI组件和redux的作用方式，大致就是用户和view发生互动（如点击等）时，发出Action，然后reducer根据action的type生成一个新的state，view感应到state变化而发生重绘.
+小demo,用于学习react-redux
